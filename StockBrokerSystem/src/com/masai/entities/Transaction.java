@@ -2,7 +2,7 @@ package com.masai.entities;
 import java.io.Serializable;
 import java.time.LocalDate;
 
-public class Transaction {
+public class Transaction implements Serializable{
 	private String username;
 	private String email;
 	private int stockId;

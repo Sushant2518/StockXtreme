@@ -1,5 +1,8 @@
 # StockXtreme
-![image](https://drive.google.com/file/d/1Fys6yRMyprAhGFtIIq6RqIBCAyhguEyx/view?usp=share_link)
+<!-- [![MasterHead](https://drive.google.com/file/d/1Fys6yRMyprAhGFtIIq6RqIBCAyhguEyx/view?usp=share_link)] -->
+<!-- ![image](https://drive.google.com/file/d/1Fys6yRMyprAhGFtIIq6RqIBCAyhguEyx/view?usp=share_link) -->
+<!-- <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Fys6yRMyprAhGFtIIq6RqIBCAyhguEyx/view?usp=share_link"; -->
+
 ## Description:
   A stock broker management system is a software application designed to help stock brokers manage their clients' portfolios and investments efficiently. The system is built using the Java programming language, and it aims to provide a comprehensive platform for stockbrokers to manage their clients' investment activities, including trading, account management, and reporting.
   
